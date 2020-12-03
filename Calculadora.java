@@ -1,3 +1,5 @@
+/*                     DESENVOLVIDO POR VITOR FELIPE RAMOS MELLO - GRADUANDO ENGENHARIA DA COMPUTAÇÃO
+                                           NA UNIVERSIDADE DO VALE DO ITAJAÍ*/
 package calculadoraPackage;
 import java.util.Scanner;//Importação do objeto <Scanner>
 
